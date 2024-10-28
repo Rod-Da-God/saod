@@ -1,0 +1,16 @@
+C:\Users\Татьяна\Desktop\ООП и структуры\saod6real\saod6real\bin\Debug\net6.0-windows\saod6real.exe
+C:\Users\Татьяна\Desktop\ООП и структуры\saod6real\saod6real\bin\Debug\net6.0-windows\saod6real.deps.json
+C:\Users\Татьяна\Desktop\ООП и структуры\saod6real\saod6real\bin\Debug\net6.0-windows\saod6real.runtimeconfig.json
+C:\Users\Татьяна\Desktop\ООП и структуры\saod6real\saod6real\bin\Debug\net6.0-windows\saod6real.dll
+C:\Users\Татьяна\Desktop\ООП и структуры\saod6real\saod6real\bin\Debug\net6.0-windows\saod6real.pdb
+C:\Users\Татьяна\Desktop\ООП и структуры\saod6real\saod6real\obj\Debug\net6.0-windows\saod6real.Form1.resources
+C:\Users\Татьяна\Desktop\ООП и структуры\saod6real\saod6real\obj\Debug\net6.0-windows\saod6real.csproj.GenerateResource.cache
+C:\Users\Татьяна\Desktop\ООП и структуры\saod6real\saod6real\obj\Debug\net6.0-windows\saod6real.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Татьяна\Desktop\ООП и структуры\saod6real\saod6real\obj\Debug\net6.0-windows\saod6real.AssemblyInfoInputs.cache
+C:\Users\Татьяна\Desktop\ООП и структуры\saod6real\saod6real\obj\Debug\net6.0-windows\saod6real.AssemblyInfo.cs
+C:\Users\Татьяна\Desktop\ООП и структуры\saod6real\saod6real\obj\Debug\net6.0-windows\saod6real.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\Desktop\ООП и структуры\saod6real\saod6real\obj\Debug\net6.0-windows\saod6real.dll
+C:\Users\Татьяна\Desktop\ООП и структуры\saod6real\saod6real\obj\Debug\net6.0-windows\refint\saod6real.dll
+C:\Users\Татьяна\Desktop\ООП и структуры\saod6real\saod6real\obj\Debug\net6.0-windows\saod6real.pdb
+C:\Users\Татьяна\Desktop\ООП и структуры\saod6real\saod6real\obj\Debug\net6.0-windows\saod6real.genruntimeconfig.cache
+C:\Users\Татьяна\Desktop\ООП и структуры\saod6real\saod6real\obj\Debug\net6.0-windows\ref\saod6real.dll
